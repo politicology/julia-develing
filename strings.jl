@@ -4,8 +4,6 @@ print("This is print")
 
 print(" ----Print needs a \\n\n")
 
-
-
 c1 = 'a'
 println(c1)
 
